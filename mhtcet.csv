@@ -1,0 +1,93 @@
+Timestamp,Percentile,Location,College
+10-06-2023 00:47,99,Mumbai,VJTI
+10-06-2023 00:47,95,Mumbai,Shah & Anchor
+10-06-2023 00:48,99,Mumbai,VJTI
+10-06-2023 00:48,79,Mumbai,Vasant Dada
+10-06-2023 00:49,85.69,Navi Mumbai,Terna
+10-06-2023 00:49,89,Mumbai,Shah & Anchor
+10-06-2023 00:49,93,Mumbai,Shah & Anchor
+10-06-2023 00:49,89,Navi Mumbai,SIES
+10-06-2023 00:49,80,Navi Mumbai,AC Patil
+10-06-2023 00:49,82,Navi Mumbai,AC Patil
+10-06-2023 00:49,93,Mumbai,Rajiv Gandhi
+10-06-2023 00:50,87,Navi Mumbai,Terna
+10-06-2023 00:50,88.39,Navi Mumbai,SIES
+10-06-2023 00:50,89,Mumbai,Rajiv Gandhi
+10-06-2023 00:50,94.67,Mumbai,DBIT
+10-06-2023 00:50,99,Mumbai,VJTI
+10-06-2023 00:50,88,Mumbai,DBIT
+10-06-2023 00:50,98,Mumbai,VJTI
+10-06-2023 00:50,70,Mumbai,Jhondhale
+10-06-2023 00:50,88.15,Mumbai,Vasant Dada
+10-06-2023 00:50,87,Navi Mumbai,SIES
+10-06-2023 00:50,91.4,Mumbai,Shah & Anchor
+10-06-2023 00:51,93,Mumbai,Shah & Anchor
+10-06-2023 00:51,99.87,Mumbai,VJTI
+10-06-2023 00:51,100,Mumbai,VJTI
+10-06-2023 00:51,65,Mumbai,Jhondhale
+10-06-2023 00:52,80.94,Mumbai,Jhondhale
+10-06-2023 00:52,85,Mumbai,Vasant Dada
+10-06-2023 00:52,87,Mumbai,DBIT
+10-06-2023 00:52,90,Navi Mumbai,Terna
+10-06-2023 00:52,88,Mumbai,Vasant Dada
+10-06-2023 00:52,84.56,Navi Mumbai,AC Patil
+10-06-2023 00:52,95,Mumbai,Rajiv Gandhi
+10-06-2023 00:52,45,Mumbai,Jhondhale
+10-06-2023 00:52,92.34,Mumbai,Rajiv Gandhi
+10-06-2023 00:52,55,Mumbai,Jhondhale
+10-06-2023 00:52,88,Mumbai,DBIT
+10-06-2023 00:52,77,Navi Mumbai,AC Patil
+10-06-2023 00:54,91,Mumbai,Shah & Anchor
+10-06-2023 00:54,88,Mumbai,Vasant Dada
+10-06-2023 00:54,88,Navi Mumbai,Terna
+10-06-2023 00:54,87.8,Navi Mumbai,Terna
+10-06-2023 00:54,75,Mumbai,Jhondhale
+10-06-2023 00:55,67,Mumbai,Jhondhale
+10-06-2023 00:55,94.56,Navi Mumbai,SIES
+10-06-2023 00:55,82,Mumbai,Vasant Dada
+10-06-2023 00:55,93,Mumbai,Shah & Anchor
+10-06-2023 00:55,88.97,Mumbai,Shah & Anchor
+10-06-2023 00:55,99.87,Mumbai,VJTI
+10-06-2023 00:56,85.67,Navi Mumbai,AC Patil
+10-06-2023 13:15,99,Mumbai,VJTI
+10-06-2023 13:24,99.8,Mumbai,VJTI
+10-06-2023 13:24,96,Mumbai,Swami Vivekanand
+10-06-2023 13:25,98,Mumbai,Swami Vivekanand
+10-06-2023 13:26,87,Navi Mumbai,Datta Meghe
+10-06-2023 13:26,95,Mumbai,Swami Vivekanand
+10-06-2023 13:26,96,Mumbai,Swami Vivekanand
+10-06-2023 13:27,97,Mumbai,Swami Vivekanand
+10-06-2023 13:28,80,Navi Mumbai,Saraswati
+10-06-2023 13:28,87,Navi Mumbai,Datta Meghe
+10-06-2023 13:29,84,Navi Mumbai,Saraswati
+10-06-2023 13:29,78,Navi Mumbai,Saraswati
+10-06-2023 13:29,97.5,Mumbai,Thadomal Shahani
+10-06-2023 13:30,98,Mumbai,Thadomal Shahani
+10-06-2023 13:30,98.3,Mumbai,Thadomal Shahani
+10-06-2023 13:30,75,Navi Mumbai,MGM
+10-06-2023 13:30,99,Mumbai,Thadomal Shahani
+10-06-2023 13:30,99,Mumbai,Thadomal Shahani
+10-06-2023 13:30,70,Navi Mumbai,MGM
+10-06-2023 13:30,99.7,Mumbai,VJTI
+10-06-2023 13:32,90,Mumbai,AP Shah
+10-06-2023 13:32,88,Mumbai,AP Shah
+10-06-2023 13:32,87,Mumbai,AP Shah
+10-06-2023 13:33,75,Mumbai,Indira Gandhi
+10-06-2023 13:33,77,Mumbai,Indira Gandhi
+10-06-2023 13:34,81,Mumbai,Indira Gandhi
+10-06-2023 13:34,79.1,Mumbai,Indira Gandhi
+10-06-2023 13:35,87,Mumbai,KC Gandhi
+10-06-2023 13:35,85,Mumbai,KC Gandhi
+10-06-2023 13:35,82,Mumbai,Rizvi
+10-06-2023 13:36,87,Mumbai,Rizvi
+10-06-2023 13:36,86.8,Mumbai,Rizvi
+10-06-2023 13:36,89,Mumbai,Rizvi
+10-06-2023 13:36,87,Mumbai,Rizvi
+10-06-2023 13:37,65,Navi Mumbai,Lokmanya Tilak
+10-06-2023 13:37,70,Navi Mumbai,Lokmanya Tilak
+10-06-2023 13:37,77,Navi Mumbai,Bhartiya Vidya Peeth
+10-06-2023 13:37,92,Navi Mumbai,Bhartiya Vidya Peeth
+10-06-2023 13:38,93,Navi Mumbai,Bhartiya Vidya Peeth
+10-06-2023 13:38,96,Navi Mumbai,Bhartiya Vidya Peeth
+10-06-2023 13:38,98,Navi Mumbai,Bhartiya Vidya Peeth
+10-06-2023 13:38,97,Navi Mumbai,Bhartiya Vidya Peeth
